@@ -1,0 +1,32 @@
+.card {
+  background-color: #ddd;
+  transition: 1s;
+}
+.card:hover {
+  background-color: brown;
+  color: white;
+}
+.card1 {
+  background-color: #ddd;
+  transition: 1s;
+}
+.card1:hover {
+  background-color: blue;
+  color: white;
+}
+.card2 {
+  background-color: #ddd;
+  transition: 1s;
+}
+.card2:hover {
+  box-shadow: 5px 10px red;
+  color: black;
+}
+.card3 {
+  background-color: #ddd;
+  transition: 1s;
+}
+.card3:hover {
+  background-color: #3e8e41;
+  color: white;
+}
